@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\bin\Debug\net7.0\while-ForEach.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\bin\Debug\net7.0\while-ForEach.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\bin\Debug\net7.0\while-ForEach.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\bin\Debug\net7.0\while-ForEach.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\bin\Debug\net7.0\while-ForEach.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\while-ForEach.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\while-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\while-ForEach.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\while-ForEach.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\while-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\while-ForEach.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\refint\while-ForEach.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\while-ForEach.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\while-ForEach.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\while-ForEach\obj\Debug\net7.0\ref\while-ForEach.dll
